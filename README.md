@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pierreetienne
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me etienne.pradere@gmail.com
 
 <!---
